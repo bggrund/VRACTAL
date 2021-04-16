@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: e00e561c61c721d45a6f4d06a5d7853d
+timeCreated: 1511659611
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Akzentica 4F
+  fontNames:
+  - Akzentica 4F
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 60fe385178306bd40bb0e1b08a6b7467, type: 3}
+  - {fileID: 12800000, guid: 4d7ee57294b214d43915ea28fb8e79d0, type: 3}
+  - {fileID: 12800000, guid: 3c6d03c398ad0cc428eba1d7825fedc0, type: 3}
+  - {fileID: 12800000, guid: 003db5d3f4876f44898d880276a46624, type: 3}
+  - {fileID: 12800000, guid: 41c7978578d76e344b89ebc4dca376cf, type: 3}
+  - {fileID: 12800000, guid: d760abf613f82a043a99e1d2f3c15aca, type: 3}
+  - {fileID: 12800000, guid: 666519da8399780498af40dba2c15c9a, type: 3}
+  - {fileID: 12800000, guid: 1d41e83c67c5dc0418a74db7a1cf8dda, type: 3}
+  - {fileID: 12800000, guid: 87c3135df918ab647b787a9fdaf31e71, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
